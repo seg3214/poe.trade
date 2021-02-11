@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Currencies><Currency><Stacksize>20</Stacksize><Name>Orb of Alteration</Name><Image>Orb_of_Alteration.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Orb of Fusing</Name><Image>Orb_of_Fusing.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Orb of Alchemy</Name><Image>Orb_of_Alchemy.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Chaos Orb</Name><Image>Chaos_Orb.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Gemcutters Prism</Name><Image>Gemcutter's_Prism.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Exalted Orb</Name><Image>Exalted_Orb.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Chromatic Orb</Name><Image>Chromatic_Orb.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Jewellers Orb</Name><Image>Jeweller's_Orb.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Orb of Chance</Name><Image>Orb_of_Chance.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Cartographers Chisel</Name><Image>Cartographer's_Chisel.png</Image></Currency>
+<Currency><Stacksize>30</Stacksize><Name>Orb of Scouring</Name><Image>Orb_of_Scouring.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Blessed Orb</Name><Image>Blessed_Orb.png</Image></Currency>
+<Currency><Stacksize>40</Stacksize><Name>Orb of Regret</Name><Image>Orb_of_Regret.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Regal Orb</Name><Image>Regal_Orb.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Divine Orb</Name><Image>Divine_Orb.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Vaal Orb</Name><Image>Vaal_Orb.png</Image></Currency>
+<Currency><Stacksize>40</Stacksize><Name>Scroll of Wisdom</Name><Image>Scroll_of_Wisdom.png</Image></Currency>
+<Currency><Stacksize>40</Stacksize><Name>Portal Scroll</Name><Image>Portal_Scroll.png</Image></Currency>
+<Currency><Stacksize>40</Stacksize><Name>Armourers Scrap</Name><Image>Armourer's_Scrap.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Blacksmiths Whetstone</Name><Image>Blacksmith's_Whetstone.png</Image></Currency>
+<Currency><Stacksize>20</Stacksize><Name>Glassblowers Bauble</Name><Image>Glassblower's_Bauble.png</Image></Currency>
+<Currency><Stacksize>40</Stacksize><Name>Orb of Transmutation</Name><Image>Orb_of_Transmutation.png</Image></Currency>
+<Currency><Stacksize>30</Stacksize><Name>Orb of Augmentation</Name><Image>Orb_of_Augmentation.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Mirror of Kalandra</Name><Image>Mirror_of_Kalandra.png</Image></Currency>
+<Currency><Stacksize>10</Stacksize><Name>Eternal Orb</Name><Image>Eternal_Orb.png</Image></Currency>
+<Currency><Stacksize>1000</Stacksize><Name>Perandus Coin</Name><Image>Perandus_Coin.png</Image></Currency>
+<Currency><Stacksize>30</Stacksize><Name>Silver Coin</Name><Image>Silver_Coin.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Sacrifice at Dusk</Name><Image>Sacrifice_at_Dusk.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Sacrifice at Midnight</Name><Image>Sacrifice_at_Midnight.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Sacrifice at Dawn</Name><Image>Sacrifice_at_Dawn.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Sacrifice at Noon</Name><Image>Sacrifice_at_Noon.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Mortal Grief</Name><Image>Mortal_Grief.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Mortal Rage</Name><Image>Mortal_Rage.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Mortal Hope</Name><Image>Mortal_Hope.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Mortal Ignorance</Name><Image>Mortal_Ignorance.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Ebers Key</Name><Image>Ebers_Key.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Yriels Key</Name><Image>Yriels_Key.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Inyas Key</Name><Image>Inyas_Key.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Volkuurs Key</Name><Image>Volkuurs_Key.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Offering to the Goddess</Name><Image>Offering_to_the_Goddess.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Fragment of the Hydra</Name><Image>Fragment_of_the_Hydra.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Fragment of the Phoenix</Name><Image>Fragment_of_the_Phoenix.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Fragment of the Minotaur</Name><Image>Fragment_of_the_Minotaur.png</Image></Currency>
+<Currency><Stacksize>1</Stacksize><Name>Fragment of the Chimera</Name><Image>Fragment_of_the_Chimera.png</Image></Currency></Currencies>

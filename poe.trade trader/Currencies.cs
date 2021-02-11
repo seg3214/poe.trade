@@ -16,14 +16,14 @@ namespace poe.trade_trader
         static Currencies()
         {
             XmlDocument xml = new XmlDocument();//.Load("XMLFile1.xml");
-            xml.Load(@"XMLFile1.xml");
+            xml.Load(@"assets\XMLFile1.xml");
             XmlNodeList xnList = xml.SelectNodes("/Currencies/Currency");
             foreach (XmlNode xn in xnList)
             {
                 curr cc = new curr();
                 cc.stacksize = Int32.Parse(xn["Stacksize"].InnerText);
                 cc.Name = xn["Name"].InnerText;
-                cc.Image = Image.FromFile(@"images\" + xn["Image"].InnerText);
+                cc.Image = Image.FromFile(@"assets\images\" + xn["Image"].InnerText);
                 Console.WriteLine("Name: {0} {1} {2}", cc.stacksize, cc.Name, cc.Image);
                 CurrencyList.Add(cc);
             }

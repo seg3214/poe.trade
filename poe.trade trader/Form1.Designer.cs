@@ -202,7 +202,7 @@
             this.label63.Name = "label63";
             this.label63.Size = new System.Drawing.Size(92, 17);
             this.label63.TabIndex = 75;
-            this.label63.Text = "Предлогаем:";
+            this.label63.Text = "Предлагаем:";
             // 
             // comboBox2
             // 

@@ -21,7 +21,7 @@ namespace poe.trade_trader
 
         private void LoadSaveOffers(Boolean Save)
         {
-            string f = "data.xml";
+            string f = @"assets\data.xml";
             if (Save)
             {
                 XmlWriter xmlWriter = XmlWriter.Create(f);
@@ -77,8 +77,8 @@ namespace poe.trade_trader
                 comboBox1.Items.Add(c.Name);
                 comboBox2.Items.Add(c.Name);
             }
-            SellPictureBox.Image = Image.FromFile(@"images\tr.png");
-            BuyPictureBox.Image = Image.FromFile(@"images\tr.png");
+            SellPictureBox.Image = Image.FromFile(@"assets\images\tr.png");
+            BuyPictureBox.Image = Image.FromFile(@"assets\images\tr.png");
             LoadSaveOffers(false);
         }
 
@@ -137,7 +137,7 @@ namespace poe.trade_trader
             // Create the XmlDocument.
             //  listBox1.Items.Add("(10.3333) Orb of Alchemy 31 = 3 Orb of Alchemy(0.0968)");
 
-            XmlWriter xmlWriter = XmlWriter.Create("data.xml");
+            XmlWriter xmlWriter = XmlWriter.Create(@"assets\data.xml");
             xmlWriter.WriteStartDocument();
             xmlWriter.WriteStartElement("Offers");
             foreach (Offers s in offers)
@@ -267,7 +267,7 @@ namespace poe.trade_trader
         private void button3_Click_1(object sender, EventArgs e)
         {
             offers.Clear();
-            XmlReader xmlReader = XmlReader.Create("data.xml");
+            XmlReader xmlReader = XmlReader.Create(@"assets\data.xml");
             while (xmlReader.Read())
             {
                 //keep reading until we see your element
